@@ -5,5 +5,5 @@ This is a simple project using Plotly to plot a given light curve from planet hu
 To use:
 ```
 pip install -r requirments.txt
-python3 path/to/.dat/file
+python3 plot.py path/to/.dat/file
 ```
